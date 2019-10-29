@@ -1,6 +1,9 @@
 {
-  "name": "cordova-plugin-geolocation",
-  "version": "4.0.1",
+  "name": "@totalpave/cordova-plugin-geolocation",
+  "version": "1.0.0",
+  "totalpave": {
+    "thirdparty": true
+  },
   "description": "Cordova Geolocation Plugin",
   "cordova": {
     "id": "cordova-plugin-geolocation",
