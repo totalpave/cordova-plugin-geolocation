@@ -1,6 +1,6 @@
 {
   "name": "@totalpave/cordova-plugin-geolocation",
-  "version": "1.0.2",
+  "version": "1.0.2-dev",
   "totalpave": {
     "thirdparty": true
   },
